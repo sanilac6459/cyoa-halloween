@@ -12,5 +12,3 @@ Click here to see our drawing plan.
 
 
 Made by: Sanila Chowdhury, Vicky Chen, William Zheng, and Myat Thet Htut
-
-
