@@ -1,4 +1,4 @@
-# Halloween Adventure
+# Halloween Adventure!🎃
 
 It's that time of the year folks! The festive spirits of ghosts, horror, and screaming, "TRICK OR TREAT!". Yep, IT'S HALLOWEEN NIGHT! 
 
