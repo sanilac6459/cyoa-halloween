@@ -1,4 +1,4 @@
-# cyoa-halloween
+# Halloween Adventure
 ---
 It's that time of the year folks! The festive sprits of ghosts, horror, and screaming, "TRICK OR TREAT!". Yep, IT'S HALLOWEEN NIGHT!  
 You in your magnificent costumes are going to get some candy from houses in your neighborhood.  
