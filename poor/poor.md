@@ -1,10 +1,10 @@
 # Poor house
-You approached to the poor house where an elderly woman, Savannah Johnson, lives.  
+You approached to a shabby wooden house where an elderly woman, Savannah Johnson, lives.  
 
 You knocked on her door. When she opened the door, you said "Trick or Treat!"  
 
 She smiles at you fondly and wants to invite you to come inside.  
 
-Go in the house  
+[Go in the house](poor/go-in.md) 
 
-Refuse the offer
+[Refuse the offer](poor/refuse)
