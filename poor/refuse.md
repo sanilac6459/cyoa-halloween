@@ -7,4 +7,4 @@ Walking away from the house, you realized that there's one more house left. The 
 
 Come on, don't be such a scary-cat! 
 
-[Walk over to the haunted house](../../haunted/haunted.md)
+[Walk over to the haunted house]
