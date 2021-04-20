@@ -9,4 +9,4 @@ Maybe next year, it will be better...
 
 The End!  
 
-[Restart your adventure](../README.md)
+[Restart your adventure](../house.md)

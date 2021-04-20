@@ -13,4 +13,4 @@ Walking down the block, you ended your halloween night on a good note and also l
 
 The End!  
 
-[Restart your adventure](../README.md)
+[Restart your adventure](../house.md)
