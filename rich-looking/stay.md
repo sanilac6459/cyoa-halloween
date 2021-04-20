@@ -10,6 +10,6 @@ Screaming in terror as you see blood dripping down your leg!
 
 You're injured badly and ended up in the hospital. What a great place to be on Halloween.  
 
-Well, at least you're still alive. Hopefully you get discharged soon.  
+Well, at least you're still alive. Hopefully you get discharged soon!  
 
 [Restart your adventure](../README.md)
