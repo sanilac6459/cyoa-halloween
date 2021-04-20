@@ -9,4 +9,4 @@ Well, guess your halloween night didn't turn out to excited and fun the way you 
 
 Hopefully you get better soon and next year would be better!
 
-[Restart your adventure](../README.md)
+[Restart your adventure](../house.md)
