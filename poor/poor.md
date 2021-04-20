@@ -5,6 +5,6 @@ You knocked on her door. When she opened the door, you said "Trick or Treat!"
 
 She smiles at you fondly and wants to invite you to come inside.  
 
-[Go in the house](poor/go-in.md) 
+[Go in the house](go-in.md) 
 
-[Refuse the offer](poor/refuse)
+[Refuse the offer](refuse.md)
