@@ -12,4 +12,4 @@ and keep her company. 😊
 
 Walking down the block, you discovered this creepy dark looking house was the only one left you haven't visit.  
 
-Let's check it out!
+[Let's check it out!]
