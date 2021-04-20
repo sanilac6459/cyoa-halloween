@@ -1,4 +1,4 @@
-# Go in
+# You o in
 You went inside the house where Savannah treats with cookies and milk.  
 
 She decided to tell you about how her husband had died three years ago, along with the struggles and life experiences she encountered.  
