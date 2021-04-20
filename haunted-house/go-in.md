@@ -11,4 +11,6 @@ As soon as you left her house, you felt bad of how everything turned out for Sav
 
 Walking down the block, you ended your halloween night on a good note and also looking forward to see her again next week!  
 
-The End!
+The End!  
+
+[Restart your adventure](../README.md)
