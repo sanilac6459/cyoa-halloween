@@ -10,5 +10,6 @@ She gave you the money to let you know how much she appericated you listening to
 As soon as you left her house, you felt bad of how everything turned out for Savannah. You decided to make a promise to visit her every weekend
 and keep her company. 😊
 
+Walking down the block, you discovered this creepy dark looking house was the only one left you haven't visit.  
 
-End your adventure
+Let's check it out!
