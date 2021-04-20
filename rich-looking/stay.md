@@ -10,4 +10,4 @@ Screaming in terror as you see blood dripping down your leg!
 
 You're injured badly and ended up in the hospital. 
 
-[Restart your adventure](../README.md)
+[Restart your adventure](README.md)
