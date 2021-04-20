@@ -4,7 +4,7 @@ You stayed hoping to get lots of candy from the Hernandez's.
 
 While walking to the doorstep, a dog from across the street came charging at you!
 
-Before you can even make a move to run, the bites your leg.
+Before you can even make a move to run, the dog bites your leg.
 
 Screaming in terror as you see blood dripping down your leg!
 
