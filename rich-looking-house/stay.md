@@ -12,4 +12,4 @@ You're injured badly and ended up in the hospital. What a great place to be on H
 
 Well, at least you're still alive. Hopefully you get discharged soon!  
 
-[Restart your adventure](../README.md)
+[Restart your adventure](../house.md)
