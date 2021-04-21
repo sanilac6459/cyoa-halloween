@@ -4,10 +4,10 @@ After getting chased out of the Hernandez's family's property, You hopefully wal
 
 You reached the house. The Smith's open the door to your knock. 
 
-Unfortunately, they had no more candy left, so they tried to settle it with a bad joke and a bad trick.
+Unfortunately, they had no more candy left. However, they tried to settle it with a joke, which didn't turn out be hilarious but you laughed along anyway just to be polite.  
 
-Well, it left you feeling cringed. You also got sad because you got no candies.
+You left the Smith's house, feeling cringed and sad because you got no candies.  
 
-You left the Smith's house.
+You decided third time is the charm and went to the third house.  
 
-[Then, you decided to check the next house.](../poor-house/poor.md)
+[Off we go!](../poor-house/poor.md)
