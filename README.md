@@ -1,5 +1,5 @@
 # Halloween Adventure! 🎃
-**The purpose for this project is to practice collaborating on one repo using all the skills we learned in this unit about Github by using command lines and merging.**  
+**The purpose for this project is to create our own adventure by collaborating on one repo using the skills we learned in this unit about Github such as command lines and merging.**  
 
 It's that time of the year folks! The festive spirits of ghosts, horror, and screaming, "TRICK OR TREAT!" 
 
