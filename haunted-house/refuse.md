@@ -1,5 +1,5 @@
 # You didn't go in
-Although you appreciated her offer, you told her that you will visit her another time.  
+Although you appreciated her offer, you were still scared and told her that you will visit her another time.  
 
 Savannah looked a bit disappointed and sad, but she understands and lets you leave her house.  
 
