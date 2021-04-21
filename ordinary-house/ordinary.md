@@ -8,4 +8,6 @@ Unfortunately, they had no more candy left, so they tried to settle it with a ba
 
 Well, it left you feeling cringed. You also got sad because you got no candies.
 
-[You decided to check the next house.](../poor-house/poor.md)
+You left the Smith's house.
+
+[Then, you decided to check the next house.](../poor-house/poor.md)
